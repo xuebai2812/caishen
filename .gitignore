@@ -1,0 +1,6 @@
+# 开发产物，不纳入仓库
+evals/
+*-workspace/
+__pycache__/
+*.pyc
+.DS_Store
