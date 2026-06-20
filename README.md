@@ -19,19 +19,29 @@
 
 ## 📦 下载与安装
 
-### 方式一：下载 `.skill` 一键安装（推荐，最简单）
+这是一个标准的 Anthropic **Agent Skill**，凡是支持 skills 的 Claude 环境都能用——并非 Cowork 专属。按你用的环境选一种：
 
-1. 在本仓库 [Releases](../../releases) 或文件列表下载 **`caishen.skill`** 文件。
-2. 打开 Claude 桌面端（Cowork 模式），把 `caishen.skill` 拖进对话，或双击该文件。
+### 🅰️ Claude 桌面端 / Cowork（最简单，推荐）
+
+1. 下载本仓库里的 **`caishen.skill`** 文件。
+2. 打开 Claude 桌面端，把 `caishen.skill` 拖进对话，或双击该文件。
 3. 在弹出的卡片上点 **「Save skill / 安装技能」** 即可。
 
-### 方式二：放进技能目录（Claude Code / 手动安装）
+### 🅱️ Claude Code（命令行）
+
+克隆到技能目录，重启后自动加载：
 
 ```bash
 git clone https://github.com/xuebai2812/caishen.git ~/.claude/skills/caishen
 ```
 
-放好后重启 Claude，技能即自动加载。
+### 🅲 Claude Agent SDK / 自建 agent
+
+把本仓库作为 skill 目录加载（指向含 `SKILL.md` 的 `caishen/` 文件夹），Claude 会按 `SKILL.md` 的 `description` 自动触发。
+
+### 🅳 其他 agent / 手动使用
+
+自动触发是 Claude 技能系统特有的，非 Claude 的 agent 用不了那一套。但本仓库内容是纯 Markdown + Python，任何 agent 或对话里都能把 `SKILL.md`（及 `references/` 里的文件）当作上下文喂进去手动使用，效果一样。
 
 ---
 
