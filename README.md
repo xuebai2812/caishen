@@ -2,7 +2,7 @@
 
 # 裁神.skill
 
-> *「被裁不是失败，天降大礼包，喜迎裁神。」*
+> *「被裁不是坏事，带着一笔钱体面离场，换一个更好的开始机会。把牌打好，喜迎裁神。」*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Standard-green)](https://agentskills.io)
@@ -182,8 +182,8 @@ caishen/
 
 <div align="center">
 
-被裁不是失败，是带着一笔钱体面离场、换一个更好开始的机会。<br>
-**把牌打好，喜迎裁神。**
+你不是一个人。<br>
+**如果对你有帮助，请把这个 skill 转给下一个需要裁神的朋友。**
 
 <br>
 
