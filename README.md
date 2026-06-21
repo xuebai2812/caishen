@@ -2,7 +2,7 @@
 
 # 裁神.skill
 
-> *「被裁不是失败，是带着一笔钱，喜迎裁神。」*
+> *「被裁不是失败，天降大礼包，喜迎裁神。」*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Standard-green)](https://agentskills.io)
@@ -10,7 +10,7 @@
 
 <br>
 
-**裁神帮你算清能拿多少、教你怎么谈、谈不拢带你维权——别再被 HR 的话术拿捏。**
+**裁神帮你算清能拿多少、教你怎么谈赔偿、谈不拢怎么维权、有什么注意事项。**
 
 <sub>基于开放的 [Agent Skills 协议](https://agentskills.io)，可在 Claude 桌面端、Claude Code、Cursor、Codex 等兼容 runtime 中运行。</sub>
 
